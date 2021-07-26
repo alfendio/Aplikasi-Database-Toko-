@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627308102 source:d:\alfend\kuliah\algoritma dan struktur data\tr asd asdos\database toko\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
